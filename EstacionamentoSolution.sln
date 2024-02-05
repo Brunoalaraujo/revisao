@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstacionamentoConsole", "EstacionamentoConsole\EstacionamentoConsole.csproj", "{799B6557-CBC4-45CF-ABFD-91AA9B5B45A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstacionamentoTestes", "EstacionamentoTestes\EstacionamentoTestes.csproj", "{AAE36730-0E96-48AC-9447-14B6C34595BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799B6557-CBC4-45CF-ABFD-91AA9B5B45A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799B6557-CBC4-45CF-ABFD-91AA9B5B45A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799B6557-CBC4-45CF-ABFD-91AA9B5B45A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799B6557-CBC4-45CF-ABFD-91AA9B5B45A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE36730-0E96-48AC-9447-14B6C34595BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE36730-0E96-48AC-9447-14B6C34595BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE36730-0E96-48AC-9447-14B6C34595BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE36730-0E96-48AC-9447-14B6C34595BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

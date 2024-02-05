@@ -1,0 +1,14 @@
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\bin\Debug\net8.0\EstacionamentoConsole.exe
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\bin\Debug\net8.0\EstacionamentoConsole.deps.json
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\bin\Debug\net8.0\EstacionamentoConsole.runtimeconfig.json
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\bin\Debug\net8.0\EstacionamentoConsole.dll
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\bin\Debug\net8.0\EstacionamentoConsole.pdb
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\EstacionamentoConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\EstacionamentoConsole.AssemblyInfoInputs.cache
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\EstacionamentoConsole.AssemblyInfo.cs
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\EstacionamentoConsole.csproj.CoreCompileInputs.cache
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\EstacionamentoConsole.dll
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\refint\EstacionamentoConsole.dll
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\EstacionamentoConsole.pdb
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\EstacionamentoConsole.genruntimeconfig.cache
+E:\DIO\BootAvanadeDecolaTech2024\refatoracao.Estacionamento\EstacionamentoConsole\obj\Debug\net8.0\ref\EstacionamentoConsole.dll
